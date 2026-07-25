@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+
+# AI Automation Data
+02-AI-Automation/data/raw/
+02-AI-Automation/data/processed/
+02-AI-Automation/logs/
+
+# Logs
+*.log
